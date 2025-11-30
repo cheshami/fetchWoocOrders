@@ -1,0 +1,10 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+et_xmlfile==2.0.0
+idna==3.10
+jalali_core==1.0.0
+jdatetime==5.0.0
+openpyxl==3.1.5
+requests==2.32.3
+urllib3==2.2.3
+WooCommerce==3.0.0

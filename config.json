@@ -1,0 +1,67 @@
+{
+    "lang": "fa",
+    "EXCEL_FILE_PATH": "orders.xlsx",
+    "DOC_TEMPLATE_PATH": "template.docx",
+    "ADD_LOG_FILE_PATH": "addresses.log",
+    "FETCH_LOG_FILE_PATH": "wcorders.log",
+    "ADD_DOC_FILE_PATH": "addresses.docx",
+    "DAYS": 60,
+    "WC_API": {
+        "URL": "https://shop.atrineh.com",
+        "KEY": "YOUR-API-Key",
+        "SECRET": "UOUR-API-SECRET",
+        "PER_PAGE": 100,
+        "TIMEOUT": 10
+    },
+    "color": {
+		"header_bg": {
+            "start_color": "EEEEEE",
+            "end_color": "EEEEEE",
+            "fill_type": "solid"
+        },
+        "order_bg": {
+            "start_color": "C6FFC6",
+            "end_color": "C6FFC6",
+            "fill_type": "solid"
+        },
+		"sum_row_bg": {
+            "start_color": "11FF11",
+            "end_color": "11FF11",
+            "fill_type": "solid"
+        },
+		"total_sum_bg": {
+            "start_color": "39b839",
+            "end_color": "39b839",
+            "fill_type": "solid"
+        },
+        "red_bg": {
+            "start_color": "FA6A5A",
+            "end_color": "FA6A5A",
+            "fill_type": "solid"
+        }
+    },
+    "borders": {
+        "thin_border": {
+            "left": "thin",
+            "right": "thin",
+            "top": "thin",
+            "bottom": "thin"
+        },
+        "thick_border": {
+            "left": "thick",
+            "right": "thick",
+            "top": "thick",
+            "bottom": "thick"
+        }
+    },
+    "font": {
+		"default": "Arial",
+		"header": "B Homa",
+		"name": "B Titr",
+		"address_text": "B Nazanin",
+		"size1": 10,
+		"size2": 11,
+		"size3": 12,
+		"size4": 13
+    }
+}
