@@ -7,7 +7,7 @@
     "ADD_DOC_FILE_PATH": "addresses.docx",
     "DAYS": 60,
     "WC_API": {
-        "URL": "https://shop.atrineh.com",
+        "URL": "YOUR-WooCommerce-URL",
         "KEY": "YOUR-API-Key",
         "SECRET": "UOUR-API-SECRET",
         "PER_PAGE": 100,
